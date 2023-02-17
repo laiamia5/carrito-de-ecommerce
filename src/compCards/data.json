@@ -1,0 +1,163 @@
+[
+    {
+        "producto": "Miss Rock",
+        "precio": 6250 , 
+        "cantidad": 1,
+        "descuento" : 26,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlp-BRltBWeVkimED6zhChS5FOhU1mmaKVOBlyTT5yYXBMVHzyEk4gVFPY_UMwyJDQ8o&usqp=CAU",
+        "categoria":"calzado", 
+        "id":1,
+        "descripcion": "Zapatilla Rosada Miss Rock Antonella"
+    },
+    {
+        "producto": "Hush Puppies",
+        "precio":23000,
+        "cantidad": 1,
+        "descuento" : 0,
+        "img":"https://img.imageboss.me/contentipncomar/cover:contain/460x460/format:auto/repository/273/productsList/1462500.jpg",
+        "categoria":"calzado", 
+        "id":2,
+        "descripcion": "Zapatilla Beige Hush Puppies Holland"
+    },
+    {
+        "producto": "Vizzano",
+        "precio": 9379,
+        "cantidad": 1,
+        "descuento" : 41,
+        "img":"https://essential.vtexassets.com/arquivos/ids/457693-800-auto?v=637643060038230000&width=800&height=auto&aspect=true",
+        "categoria":"calzado",
+        "id":3,
+        "descripcion": "Zapatilla Blanca Vizzano"
+    },
+    {
+        "producto": "Wake",
+        "precio":8300,
+        "cantidad": 1,
+        "descuento" : 0,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZkgUkF9-xzdWyKm9o9KAu1hr0MIGqU9r-hA&usqp=CAU",
+        "categoria": "calzado",
+        "id":4,
+        "descripcion": "Zapatilla Negra Wake"
+    },
+    {
+        "producto": "Pink",
+        "precio":5999 ,
+        "cantidad": 1,
+        "descuento" : 25,
+        "img":"https://essential.vtexassets.com/arquivos/ids/467735-800-auto?v=637672155860800000&width=800&height=auto&aspect=true",
+        "categoria":"calzado",
+        "id":5,
+        "descripcion": "Zapatilla Deportiva Rosa Salmon"
+    },
+    {
+        "producto": "LACOSTE",
+        "precio":9999,
+        "cantidad": 1,
+        "descuento" : 38,
+        "img":"https://imagesa1.lacoste.com/dw/image/v2/BCWL_PRD/on/demandware.static/-/Sites-master/default/dw1cf93a88/43CFA0031_AMG_01.jpg?imwidth=915&impolicy=product",
+        "categoria":"calzado",
+        "id":6,
+        "descripcion": "Zapatilla amarilla LACOSTE High"
+    },
+    {
+        "producto": "Prince",
+        "precio":6990,
+        "cantidad": 1,
+        "descuento" : 27,
+        "img":"https://sportotalar.vtexassets.com/arquivos/ids/378680-800-auto?v=637957623173400000&width=800&height=auto&aspect=true",
+        "categoria": "calzado",
+        "id":7,
+        "descripcion": "Zapatilla Blanca Prince Gymnasthi"
+    },
+    {
+        "producto": "New Balance",
+        "precio":4999 ,
+        "cantidad": 1,
+        "descuento ": 26,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZByOPFn6vE8Nf6TnnsaLltLXjLs5YxHpSOg&usqp=CAU",
+        "categoria": "calzado",
+        "id":8,
+        "descripcion": "Zapatilla New Balance 574 Moda"
+    },
+    {
+        "producto": "Olympikus",
+        "precio":6799,
+        "cantidad": 1,
+        "descuento" : 18,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfOJhOeXBU6geTkJQ86A5fKHSWy2SLn2HLIE4Q0dmojAq72uBVavoEduVxh0B7cFty7U&usqp=CAU",
+        "categoria": "calzado",
+        "id":10,
+        "descripcion": "Zapatilla Azul Olympikus G-Saga"
+    },
+    {
+        "producto": "47 STREET",
+        "precio":13399,
+        "cantidad": 1,
+        "descuento" : 18,
+        "img":"https://essential.vtexassets.com/arquivos/ids/628712-800-auto?v=638000613609770000&width=800&height=auto&aspect=true",
+        "categoria": "calzado",
+        "id":11,
+        "descripcion": "Zapatilla 47 STREET Rimba"
+    },
+    {
+        "producto": "DC",
+        "precio":5999,
+        "cantidad": 1,
+        "descuento" : 18,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHzjaJ6sD31_b8agVewwuz5JKzOvEZhof3ZXPjmpLyj2OXUhZWwA4WphygTK_e9pWJHn8&usqp=CAU",
+        "categoria": "calzado",
+        "id":13,
+        "descripcion": "Zapatillas Manteca SS DC Mujer"
+    },
+    {
+        "producto": "Adidas",
+        "precio":6799,
+        "cantidad": 1,
+        "descuento" : 18,
+        "img":"https://essential.vtexassets.com/arquivos/ids/600103-800-auto?v=637955556026500000&width=800&height=auto&aspect=true",
+        "categoria": "calzado",
+        "id":14,
+        "descripcion": "Zapatillas Adidas Ozweego"
+    },
+    {
+        "producto": "Dash",
+        "precio":12000,
+        "cantidad": 1,
+        "descuento" : 18,
+        "img":"https://dash.vtexassets.com/arquivos/ids/612729/316-0475_1.jpg?v=1762544187",
+        "categoria": "calzado",
+        "id":15,
+        "descripcion": "Zapatillas Dash Rosa Fluor"
+    },
+    {
+        "producto": "Asics",
+        "precio":9999,
+        "cantidad": 1,
+        "descuento" : 18,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBTt0RsFiQ-tzEIq5SjOgOU7iXWGWO90gzEKxjOFZZ6azpFVXpIXkXXcdNARHoNcQ43I&usqp=CAU",
+        "categoria": "calzado",
+        "id":16,
+        "descripcion": "Zapatilla Asics Challenger 13 Deportes Manzanedo"
+    },
+    {
+        "producto": "Nike",
+        "precio":7999,
+        "cantidad": 1,
+        "descuento" : 18,
+        "img":"https://sevensport.vteximg.com.br/arquivos/ids/452493-500-500/CW2386-101_1.jpg?v=637744137338970000",
+        "categoria": "calzado",
+        "id":17,
+        "descripcion": "Zapatillas Nike Creater Impact W"
+    },
+    {
+        "producto": "Nike",
+        "precio":9000,
+        "cantidad": 1,
+        "descuento" : 18,
+        "img":"https://www.stockcenter.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw5d3f137e/products/NI_CD5432-117/NI_CD5432-117-1.JPG?sw=400&sh=400",
+        "categoria": "calzado",
+        "id":18,
+        "descripcion": "Zapatillas Deportivas y Urbanas Mujer"
+    }
+    
+]

@@ -1,0 +1,85 @@
+
+.div_principal{
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .chiqito{
+    width: 200px;
+    height: 9vh;
+  }
+  .img_card{
+    width: 200px;
+    height: 200px;
+    transition: 1s;
+  }
+  
+  .contenedor_cards:hover .img_card{
+    transform: scale(1.2);
+  }
+  
+  .img_contenedor{
+    overflow: hidden;
+    border-radius: 15px;
+  }
+  
+  .contenedor_cards{
+  margin-left: 4px;
+  background-color: transparent;
+  background-color: white;
+  border-radius: 15px;
+  margin-top: 5px;
+  }
+  
+  .filtro{
+    display: none;
+  }
+  
+  .clasificar{
+    overflow: hidden;
+  }
+  
+  /*------------------BOTON CARD-------------------------------------------*/
+  
+  .frame {
+    width: 90%;
+    margin: 10px auto;
+    text-align: center;
+  }
+  
+  .custom-btn {
+    width: 170px;
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+     box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+     7px 7px 20px 0px rgba(0,0,0,.1),
+     4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+  }
+  
+  .btn-2 {
+    background-color: #009B7D;
+    border: none;
+    
+  }
+  .btn-2:before {
+    height: 0%;
+    width: 2px;
+  }
+  .btn-2:active {
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+                -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+      inset -4px -4px 6px 0 rgba(255,255,255,.2),
+      inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+  }

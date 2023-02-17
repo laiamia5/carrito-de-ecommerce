@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+*{
+  font-family: 'DM Sans', sans-serif
+}
+  /* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap"); */
+/*   
+  *, *:before, *:after {
+    box-sizing: inherit;
+  } */
+  
+  /* div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, li, form, legend, label, table, header, footer, nav, section, figure {
+    margin: 0;
+    padding: 0;
+    background-color: red;
+  }
+   */
+  * {
+   outline: none;
+   box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+    /* height: 100%;
+    font-size: 100%;
+    line-height: 1.5;
+    font-family: 'DM Sans', sans-serif; */
+   /* background-color: #f3f6fd; */
+   margin:0;
+   padding:0;
+  }
+  
